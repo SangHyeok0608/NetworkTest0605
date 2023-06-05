@@ -2,5 +2,5 @@ ref: refs/heads/master
 
 
 int main(){
-    printf("Hellow Wolrd!");
+    printf("안녕 친구들!");
 }
